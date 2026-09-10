@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.pkl
+.DS_Store
+.env
+.venv/
+venv/
+work/
+results/
+uploads/
+smac_raw_runs/
+
